@@ -1,6 +1,6 @@
 .header {
   font-size: 20px;
-  color: #fff;
+  color: rgb(0, 0, 0);
   text-align: center;
   animation: glow 1s ease-in-out infinite alternate;
 }
